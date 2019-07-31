@@ -6,7 +6,6 @@
 import requests
 import os
 import re
-import time
 
 def get_Text(url):
     # user-agent 与 cookie: : 右键检查或者F12 Network - all 下拉
